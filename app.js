@@ -3,51 +3,51 @@ const orders = [
     {
         id: 1,
         pizza: "Hawaii",
-        extra: "Kukrica",
+        extra: "Kukorica",
         ital: "Pepsi zero",
-        ar: 1500,
+        ar: 3500,
 
     }
 ,
     {
         id: 2,
         pizza: "Magyaros",
-        extra: "Kukrica",
-        ital: "Pepsi zero",
-        ar: 1500,
+        extra: "Kukorica, mustár",
+        ital: "Fanta",
+        ar: 2500,
 
     }
 ,
     {
         id: 3,
         pizza: "Margaréta",
-        extra: "Kukrica",
-        ital: "Pepsi zero",
-        ar: 1500,
+        extra: "Paprika",
+        ital: "Ásványvíz",
+        ar: 4000,
 
     }
     ,
     {
         id: 4,
         pizza: "Songoku",
-        extra: "Kukrica",
-        ital: "Pepsi zero",
+        extra: "Ketchup",
+        ital: "Sprite",
         ar: 1500,
     }
     ,
     {
         id: 5,
         pizza: "Magyaros",
-        extra: "Kukrica",
-        ital: "Pepsi zero",
-        ar: 1500,
+        extra: "Paprika",
+        ital: "Coca cola",
+        ar: 3000,
 
     }
     ,
     {
         id: 6,
         pizza: "Csípős",
-        extra: "Kukrica",
+        extra: "Majonéz",
         ital: "Pepsi zero",
         ar: 1500,
     }

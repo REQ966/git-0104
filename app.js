@@ -60,12 +60,12 @@ let output = ""
 for(i in orders){
     output += 
             `<div class='rend'>
-            <p> Rendelés száma: ${orders[i].id} </p>
+            <p> Rendelés száma: <b>${orders[i].id}</b> </p>
             <hr>
-            <p> Pizza típusa: ${orders[i].pizza} </p>
-            <p> Extra: ${orders[i].extra} </p>
-            <p> Ital: ${orders[i].ital} </p>
-            <p> Ár: ${orders[i].ar} Ft</p>
+            <p> Pizza típusa: <b>${orders[i].pizza}</b> </p>
+            <p> Extra: <b>${orders[i].extra}</b> </p>
+            <p> Ital: <b>${orders[i].ital}</b> </p>
+            <p> Ár: <b>${orders[i].ar} Ft</b> </p>
             </div>`
 }
 
